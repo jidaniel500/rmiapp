@@ -1,0 +1,5 @@
+grant codeBase "file:C:/Users/jidan/OneDrive/Documentos/JavaEclipseProyects/rmiappejemplo/src/" {
+    permission java.security.AllPermission;
+};
+
+
